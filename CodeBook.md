@@ -2,9 +2,6 @@
 title: Codebook for "Getting and Cleaning" course project
 author: dfcarels
 date: 27/12/2015
-output:
-  html_document:
-    keep_md: yes
 ---
 
 ## Project Description
