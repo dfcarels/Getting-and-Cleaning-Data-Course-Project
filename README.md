@@ -31,7 +31,7 @@ There are **4 output files** in this repo:
 * `CodeBook.Rmd`: the code book describing the data (source, format, variables, ...), and the transformation script `run_analysis.R` in detail; 
 * `README.Rmd`: this readme file.
 
-#3. High level outline of the run_analysis.R script
+#3. Outline of the run_analysis.R script
 The `run_analysis.R` script:
 1. Merges the training and the test sets to create one data set;
 2. Extracts only the measurements on the mean and standard deviation for each measurement; 
@@ -41,7 +41,7 @@ The `run_analysis.R` script:
 
 *More details to this script can be found in the code book and the script file itself, but are repeated here as well.*
 
-The script `run_analysis.R` contains the following **steps** performed on the data to in the end create the `tidydata.txt` dataset:
+In more detail, the script `run_analysis.R` contains the following **steps** performed on the data to in the end create the `tidydata.txt` dataset:
 
 0. download files and put them into the working directory. 
 1. load libraries: `data.table`, `reshape2`, `dplyr` and `plyr`.
