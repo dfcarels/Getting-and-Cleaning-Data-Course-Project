@@ -164,7 +164,7 @@ The **measurement names** (column headers) have been named in a particular way s
 * `Magnitude` denotes the magnitude of the three-dimensional signals that was calculated using the Euclidean norm.
 * Suffix `_X`, `_Y` or `_Z` denotes 3-axial signals in the X, Y or Z directions.
 
-NOTE: the measurement names have been adapted from the original datafiles *(see further on in section 5)*.
+*NOTE: the measurement names have been adapted from the original datafiles (see further on in section 5)*.
 
 
 #5. Raw data transformation script (run_analysis.R)
