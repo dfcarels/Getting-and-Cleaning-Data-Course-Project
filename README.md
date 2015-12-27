@@ -33,6 +33,7 @@ There are **4 output files** in this repo:
 
 #3. High level outline of the run_analysis.R script
 The `run_analysis.R` script:
+
 1. Merges the training and the test sets to create one data set;
 
 2. Extracts only the measurements on the mean and standard deviation for each measurement; 
