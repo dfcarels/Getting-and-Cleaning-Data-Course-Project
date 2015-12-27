@@ -28,8 +28,8 @@ There are **4 output files** in this repo:
 
 * `tidydata.txt`: the tidy data set as a result of the `run_analysis.R` script;
 * `run_analysis.R`: the script to clean and transform the raw data and to create the `tidydata.txt` dataset;
-* `CodeBook.Rmd`: the code book describing the data (source, format, variables, ...), and the transformation script `run_analysis.R` in detail; 
-* `README.Rmd`: this readme file.
+* `CodeBook.Rd`: the code book describing the data (source, format, variables, ...), and the transformation script `run_analysis.R` in detail; 
+* `README.Rd`: this readme file.
 
 #3. Outline of the run_analysis.R script
 The `run_analysis.R` script:
