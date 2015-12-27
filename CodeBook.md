@@ -52,7 +52,7 @@ This variable is a factor with **6 levels** and represents the **activities** ea
 * Only measurements with **'mean'** or **'std'** (standard deviation) have been retained from the original data files. 
 * The values in the measurement columns are all **means**. 
 
-*__Exerpt / example 1:__*
+*__Excerpt / example 1:__*
 
 | Activity      | Subject       | t_MeanBodyAcceleration_X  |
 | ------------- |:-------------:| :------------------------ |
@@ -61,7 +61,7 @@ This variable is a factor with **6 levels** and represents the **activities** ea
 The value 0.2215982 is the mean of the measurement `t_MeanBodyAcceleration_X` for subject 1 for the activity `LAYING`.
 
 
-*__Exerpt / example 2:__*
+*__Excerpt / example 2:__*
 
 | Activity      | Subject       | t_StdBodyAcceleration_X  |
 | ------------- |:-------------:| :----------------------- |
