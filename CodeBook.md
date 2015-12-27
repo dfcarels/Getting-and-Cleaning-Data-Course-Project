@@ -15,7 +15,7 @@ The following **datafiles** have been used to create the 'tidydata.txt' dataset:
 
 * `X_test.txt`: file with the test measurements.
 * `y_test.txt`: file with the activity labels for the test measurements. 
-* `features.txt`: list of all features in the test measurements file (i.e., the column headers for the measurements file: `X_test.txt`)
+* `features.txt`: list of all features in the test measurements file (i.e., the column headers for the measurements file: `X_test.txt`).
 * `subject_test.txt`: file with the subjects for the test data.
 * `X_train.txt`, `y_train.txt`, `subject_train.txt`: same as the previous files but for the training data. 
 
