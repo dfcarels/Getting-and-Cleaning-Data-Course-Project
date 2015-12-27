@@ -11,13 +11,16 @@ This repo has been created for the project in the online Coursera course **'Gett
 Purpose of the project is to demonstrate the ability to **collect, work with, and clean a data set.** The goal is to prepare **tidy data** that can be used for later analysis. It is required to submit: 
 
 1) a **tidy data set**;
+
 2) a **link to a Github repository** with the **script** for performing the analysis. This script should allow the following: 
   * Merges the training and the test sets to create one data set.
   * Extracts only the measurements on the mean and standard deviation for each measurement. 
   * Uses descriptive activity names to name the activities in the data set
   * Appropriately labels the data set with descriptive variable names. 
   * From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+
 3) a **code book** that describes the variables, the data, and any transformations or work that you performed to clean up the data;
+
 4) a **readme file** which explains how all of the scripts work and how they are connected.  
 
 #2. Output files in the repo
@@ -134,7 +137,6 @@ The script `run_analysis.R` contains the following **steps** performed on the da
 12. transform the data into tidy data: grouped by activity and subject and means for all measurements.
 13. create a `tidydata.txt` file.
 
-*NOTE: All of these steps have also been integrated in the script itself.*
-
+**Final notes:**
 * All analyses and transformations have been done in **RStudio version 0.99.486 for Mac**.
 * Raw data files have been downloaded on **26/12/2015**.
